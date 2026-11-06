@@ -11,7 +11,7 @@
 
 - 🔧 Atuo como **Analista de Sistemas**, com experiência em Oracle Forms, Oracle Reports e desenvolvimento de objetos de banco (triggers, functions, procedures, packages).
 - 🌐 Estou migrando de carreira para **desenvolvimento web**, por ser uma área com mais oportunidades de mercado.
-- 🎯 Meu plano de médio prazo é consolidar a base em dev web e evoluir para **C# ou Java**, com o objetivo de desenvolver **aplicações desktop e mobile**.
+- 🎯 Meu plano de médio prazo é consolidar a base em dev web e evoluir para **Java**, com o objetivo de desenvolver **aplicações desktop e mobile**.
 - 🛠️ Aprendo construindo: meus projetos aqui no GitHub nascem de necessidades reais e de prática deliberada.
 
 ---
